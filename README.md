@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%91%8B+Hola%2C+soy+David+Santiago+Gil;Full+Stack+Developer+%7C+SENA+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%91%8B+Hola%2C+soy+David+Santiago+Gil;Full+Stack+Developer+%7C+SENA+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=David-Santiago-Gil&label=Visitas+al+perfil&color=70A5FD&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/David-Santiago-Gil?label=Seguidores&style=for-the-badge&color=9D7CD8&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=David-Santiago-Gil&label=Visitas+al+perfil&color=FF4655&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/David-Santiago-Gil?label=Seguidores&style=for-the-badge&color=FF4655&logo=github" alt="Followers" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -100,7 +100,7 @@
       <h3 align="center">🎬 MovieNexus</h3>
       <p align="center">
         <a href="https://github.com/David-Santiago-Gil/MovieNexus">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-70A5FD?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Ver_Repositorio-FF4655?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
       <p>
@@ -117,7 +117,7 @@
       <h3 align="center">📝 Gestor de Tareas</h3>
       <p align="center">
         <a href="https://github.com/David-Santiago-Gil/gestor_tareas">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-9D7CD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Ver_Repositorio-FF4655?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
       <p>
@@ -136,7 +136,7 @@
       <h3 align="center">⚡ FARM Stack CRUD</h3>
       <p align="center">
         <a href="https://github.com/David-Santiago-Gil/Farm_Stack_Crud">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-BB9AF7?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Ver_Repositorio-FF4655?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
       <p>
@@ -153,7 +153,7 @@
       <h3 align="center">🎰 NeonRoyale Casino</h3>
       <p align="center">
         <a href="https://github.com/David-Santiago-Gil/casino">
-          <img src="https://img.shields.io/badge/Ver_Repositorio-F7768E?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+          <img src="https://img.shields.io/badge/Ver_Repositorio-FF4655?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
         </a>
       </p>
       <p>
@@ -178,7 +178,7 @@
     <td>🎓</td>
     <td><b>Tecnólogo en Análisis y Desarrollo de Software (ADSO)</b></td>
     <td>SENA</td>
-    <td><img src="https://img.shields.io/badge/En_Curso-5°_de_6_Trimestres-70A5FD?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/En_Curso-5°_de_6_Trimestres-FF4655?style=flat-square" /></td>
   </tr>
   <tr>
     <td>🤖</td>
@@ -199,22 +199,22 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-david-gils-projects-d0b1b926.vercel.app/api?username=David-Santiago-Gil&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27" alt="Estadísticas" />
-  <img width="49%" src="https://github-readme-stats-david-gils-projects-d0b1b926.vercel.app/api/top-langs/?username=David-Santiago-Gil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Lenguajes" />
+  <img width="49%" src="https://github-readme-stats-david-gils-projects-d0b1b926.vercel.app/api?username=David-Santiago-Gil&show_icons=true&count_private=true&hide_border=true&bg_color=0f1923&title_color=ff4655&text_color=ece8e1&icon_color=ff4655" alt="Estadísticas" />
+  <img width="49%" src="https://github-readme-stats-david-gils-projects-d0b1b926.vercel.app/api/top-langs/?username=David-Santiago-Gil&layout=compact&hide_border=true&bg_color=0f1923&title_color=ff4655&text_color=ece8e1&icon_color=ff4655" alt="Lenguajes" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=David-Santiago-Gil&theme=tokyonight&hide_border=true&background=1a1b27" alt="Racha de Commits" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=David-Santiago-Gil&hide_border=true&background=0f1923&title=ff4655&currStreakNum=ff4655&currStreakLabel=ece8e1&sideNums=ece8e1&sideLabels=ece8e1&dates=ece8e1&ring=ff4655&fire=ff4655" alt="Racha de Commits" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Santiago-Gil&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70A5FD&line=9D7CD8&point=F7768E" alt="Gráfico de Actividad" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Santiago-Gil&theme=tokyo-night&hide_border=true&bg_color=0f1923&color=ff4655&line=ff4655&point=ece8e1" alt="Gráfico de Actividad" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&text=¡Gracias%20por%20visitarme!%20🚀&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F1923,FF4655&height=120&section=footer&text=¡Gracias%20por%20visitarme!%20🚀&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" />
 </p>
 
 <p align="center">
