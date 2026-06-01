@@ -33,23 +33,21 @@
 
 ## 🧑‍💻 Sobre Mí
 
-```javascript
-const david = {
-    ubicación: "Funza, Cundinamarca, Colombia 🇨🇴",
-    educación: "Tecnólogo ADSO — SENA (5° de 6 trimestres)",
-    rol: "Desarrollador Full Stack Junior",
-    idiomas: ["Español (Nativo)", "Inglés (B1 → B2+)"],
-    
-    intereses: [
-        "🔭 Búsqueda de primera oportunidad profesional",
-        "🌱 Mejorando activamente mi inglés",
-        "⚡ Creando soluciones web dinámicas y responsivas",
-        "🤝 Disponibilidad inmediata"
-    ],
-    
-    dato_curioso: "Transformo café ☕ en código limpio 💻"
-};
-```
+<p align="left">
+  ✨ <b>¡Hola!</b> Soy un apasionado desarrollador en formación constante, enfocado en construir experiencias web excepcionales, interactivas y eficientes.
+</p>
+
+- 📍 **Ubicación:** Funza, Cundinamarca, Colombia 🇨🇴
+- 🎓 **Educación:** Tecnólogo en Análisis y Desarrollo de Software (ADSO) — SENA *(5° de 6 trimestres)*
+- 💼 **Rol Actual:** Desarrollador Full Stack Junior / Frontend Trainee
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (Nivel B1 con meta activa a B2+)
+- 💡 **Dato curioso:** ¡Transformo café ☕ en código limpio y eficiente 💻!
+
+### 🎯 Mis Objetivos y Enfoque:
+- 🔭 **Búsqueda activa:** De mi primera oportunidad profesional, prácticas o soporte técnico.
+- 🌱 **Aprendizaje continuo:** Expandiendo mis habilidades en desarrollo frontend y arquitectura backend.
+- ⚡ **Desarrollo dinámico:** Obsesionado con el diseño responsive y el alto rendimiento.
+- 🤝 **Disponibilidad:** Inmediata para aportar valor a tu equipo de desarrollo.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
